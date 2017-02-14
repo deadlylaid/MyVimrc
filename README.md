@@ -1,7 +1,14 @@
 # MyVimrc
-My ~/.vimrc
 
+My conf of ~/.vimrc
 
+If you want to use my configurate
+
+```script
+$ vim ~/.vimrc
+
+: source ~/.vimrc
+```
 
 ```vim
 set nocompatible              " be iMproved, required
