@@ -7,6 +7,8 @@ If you want to use my configurate
 ```script
 $ vim ~/.vimrc
 
+### paste code
+
 : source ~/.vimrc
 ```
 
