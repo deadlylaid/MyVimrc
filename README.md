@@ -10,6 +10,8 @@ $ vim ~/.vimrc
 ### paste code
 
 : source ~/.vimrc
+
+:PluginInstall
 ```
 
 ```vim
